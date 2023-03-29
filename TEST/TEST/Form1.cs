@@ -63,10 +63,10 @@ namespace TEST
             toolStripComboBox1.Items.Clear();
             int c = 0;
             foreach (string s in Directory.GetFiles(Environment.GetFolderPath(Environment.SpecialFolder.MyMusic))){
-                string[] checkfiletype = s.Split('.');
+                string[1] checkfiletype = s.Split('.');
                 if(checkfiletype[1] == "wav"){
                     WavFiles[c] = s;
-                    string[] filemame = checkfiletype[0].Split('\\');
+                    string[1] filemame = checkfiletype[0].Split('\\');
                     toolStripComboBox1.Items.Add(filemame[filemame.Length - 1]);
                 }
                 c++;

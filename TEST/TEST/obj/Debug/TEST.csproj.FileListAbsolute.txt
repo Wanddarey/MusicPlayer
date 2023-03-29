@@ -1,0 +1,15 @@
+C:\Users\lukas\source\repos\TEST\TEST\bin\Debug\TEST.exe.config
+C:\Users\lukas\source\repos\TEST\TEST\bin\Debug\TEST.exe
+C:\Users\lukas\source\repos\TEST\TEST\bin\Debug\TEST.pdb
+C:\Users\lukas\source\repos\TEST\TEST\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\lukas\source\repos\TEST\TEST\bin\Debug\Guna.UI2.dll
+C:\Users\lukas\source\repos\TEST\TEST\obj\Debug\TEST.csproj.AssemblyReference.cache
+C:\Users\lukas\source\repos\TEST\TEST\obj\Debug\TEST.csproj.SuggestedBindingRedirects.cache
+C:\Users\lukas\source\repos\TEST\TEST\obj\Debug\TEST.Form1.resources
+C:\Users\lukas\source\repos\TEST\TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\Users\lukas\source\repos\TEST\TEST\obj\Debug\TEST.csproj.GenerateResource.cache
+C:\Users\lukas\source\repos\TEST\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\TEST\TEST\obj\Debug\TEST.csproj.CopyComplete
+C:\Users\lukas\source\repos\TEST\TEST\obj\Debug\TEST.exe
+C:\Users\lukas\source\repos\TEST\TEST\obj\Debug\TEST.pdb
+C:\Users\lukas\source\repos\TEST\TEST\obj\Debug\TEST.Form2.resources
